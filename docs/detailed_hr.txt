@@ -1,0 +1,820 @@
+THE CARY COMPANY — HUMAN RESOURCES POLICY MANUAL
+Version 3.2 | Effective January 1, 2026 | Confidential — Internal Use Only
+================================================================================
+
+SECTION 1: EMPLOYMENT & ONBOARDING
+================================================================================
+
+1.1 EMPLOYMENT TYPES
+--------------------
+The Cary Company employs full-time, part-time, and contract employees across
+nine warehouse and office locations in the United States. Full-time employees
+are defined as those working 40 hours per week or 80 hours per biweekly pay
+period. Part-time employees work fewer than 30 hours per week and are not
+eligible for most benefits unless otherwise specified.
+
+1.2 ONBOARDING PROCESS
+-----------------------
+New employees are required to complete onboarding within their first 30 days.
+Onboarding includes completion of all federal and state tax withholding forms
+(W-4, state equivalents), I-9 employment eligibility verification, direct
+deposit enrollment, benefits enrollment, safety training certification, and
+IT systems access setup including Microsoft 365, SharePoint, and internal
+platforms.
+
+New hires are assigned an onboarding buddy from their department for the first
+60 days. The onboarding buddy is responsible for answering day-to-day questions,
+providing department-specific guidance, and facilitating introductions to key
+stakeholders.
+
+1.3 PROBATIONARY PERIOD
+------------------------
+All new employees serve a 90-day probationary period beginning on their first
+day of employment. During this period, employees are evaluated on performance,
+attendance, cultural fit, and role-specific competencies. Benefits eligibility
+begins on day 1 of employment. The probationary period does not affect benefits
+eligibility. At the conclusion of the 90-day period, managers conduct a formal
+review and determine whether to confirm employment.
+
+1.4 BACKGROUND CHECKS
+----------------------
+All offers of employment are contingent upon successful completion of a
+background check including criminal history, employment verification, and
+education verification. Drug screening is required for all warehouse, logistics,
+and operations roles. Driving record checks are required for roles that involve
+operating company vehicles.
+
+1.5 RELOCATION ASSISTANCE
+--------------------------
+Employees relocating more than 50 miles for a position at The Cary Company
+are eligible for relocation assistance of up to $5,000 for individual
+contributors and up to $10,000 for manager-level and above. Relocation
+assistance is paid as a lump sum in the first paycheck and is subject to
+a 12-month clawback provision if the employee voluntarily resigns within
+one year of start date.
+
+================================================================================
+
+SECTION 2: COMPENSATION & PAYROLL
+================================================================================
+
+2.1 PAY SCHEDULE
+-----------------
+Employees are paid on a biweekly basis, every other Friday. The Cary Company
+observes a two-week pay lag, meaning work performed in a given pay period is
+paid two weeks following the close of that period. Direct deposit is available
+and strongly encouraged. Paper checks are available upon request.
+
+2.2 SALARY BANDS
+-----------------
+The Cary Company uses a five-tier compensation structure:
+
+  Level 1 — Entry / Associate:         $40,000 — $60,000
+  Level 2 — Mid-level / Specialist:    $60,000 — $85,000
+  Level 3 — Senior / Lead:             $85,000 — $120,000
+  Level 4 — Manager / Principal:       $110,000 — $160,000
+  Level 5 — Director and Above:        $150,000 — $250,000+
+
+Compensation is reviewed annually during the performance review cycle.
+Market adjustments may be made outside the annual cycle at the discretion
+of the VP of Human Resources.
+
+2.3 OVERTIME
+-------------
+Non-exempt employees are eligible for overtime pay at 1.5x their regular
+hourly rate for hours worked in excess of 40 hours per workweek, in
+accordance with the Fair Labor Standards Act. Overtime must be pre-approved
+by the direct manager. Unauthorized overtime will be paid but may result
+in disciplinary action.
+
+2.4 SHIFT DIFFERENTIALS
+------------------------
+Warehouse and operations employees working evening shifts (3pm — 11pm)
+receive a shift differential of $1.50 per hour. Night shift employees
+(11pm — 7am) receive a differential of $2.50 per hour. Weekend shifts
+receive a $1.00 per hour differential.
+
+2.5 BONUS STRUCTURE
+--------------------
+The Cary Company offers an annual performance bonus for eligible employees.
+Bonus eligibility begins after 90 days of employment. Target bonus amounts
+by level:
+
+  Level 1:  3% — 5% of base salary
+  Level 2:  5% — 8% of base salary
+  Level 3:  8% — 12% of base salary
+  Level 4:  12% — 18% of base salary
+  Level 5:  18% — 25% of base salary
+
+Bonuses are paid in March following the close of the fiscal year (December 31).
+Employees must be actively employed on the bonus payment date to receive the
+bonus. Pro-rated bonuses are not available for employees who leave before
+the payment date.
+
+2.6 REFERRAL BONUS
+-------------------
+Employees who refer a candidate who is subsequently hired and completes 90
+days of employment are eligible for a referral bonus. Standard referral
+bonus is $1,000. Referral bonus for engineering, technical, and AI roles
+is $2,500. Referral bonus is paid in the paycheck following the referred
+employee's 90-day anniversary.
+
+================================================================================
+
+SECTION 3: TIME OFF & LEAVE POLICIES
+================================================================================
+
+3.1 PTO ACCRUAL BY TENURE
+--------------------------
+The Cary Company provides Paid Time Off (PTO) that combines vacation,
+personal days, and floating holidays into a single bank. PTO accrues
+on a biweekly basis based on years of continuous service:
+
+  Years 0 — 3:     15 days per year (4.62 hours per biweekly period)
+  Years 3 — 6:     18 days per year (5.54 hours per biweekly period)
+  Years 6 — 10:    22 days per year (6.77 hours per biweekly period)
+  Years 10+:       25 days per year (7.69 hours per biweekly period)
+
+PTO begins accruing on the first day of employment. Employees may use
+accrued PTO immediately — there is no waiting period. Maximum PTO carryover
+is 40 hours (5 days) per calendar year. Unused PTO above 40 hours is
+forfeited on January 1 each year. PTO is paid out upon termination at
+the employee's current hourly rate for all accrued, unused hours.
+
+3.2 PTO REQUEST PROCESS
+------------------------
+PTO requests must be submitted through the HR portal in Microsoft SharePoint
+at least 5 business days in advance for requests of 3 or more consecutive
+days. Single-day or two-day requests require 48 hours advance notice where
+possible. Emergency PTO is available at manager discretion. PTO requests
+are approved or denied by the direct manager within 2 business days.
+Denial of PTO must include a documented business reason.
+
+3.3 SICK LEAVE
+---------------
+The Cary Company provides separate sick leave in addition to PTO. Full-time
+employees accrue sick leave at a rate of 1 hour per 30 hours worked, up to
+a maximum of 56 hours (7 days) per year. Sick leave does not carry over
+year to year and is not paid out upon termination. Sick leave may be used
+for the employee's own illness, injury, or medical appointment, or to care
+for an immediate family member (spouse, child, parent, or domestic partner).
+
+For sick leave of 3 or more consecutive days, a doctor's note or medical
+documentation is required upon return to work. Employees on sick leave
+for more than 5 consecutive days should contact HR to discuss FMLA
+eligibility.
+
+3.4 9/80 WORK SCHEDULE
+-----------------------
+The Cary Company offers a 9/80 alternative work schedule for eligible
+office-based employees. Under the 9/80 schedule, employees work 80 hours
+over 9 days in a two-week pay period, with every other Friday off.
+
+Week 1: Monday — Thursday 9 hours, Friday 8 hours (total: 44 hours)
+Week 2: Monday — Thursday 9 hours, Friday off (total: 36 hours)
+
+The 9/80 schedule is available to employees who have completed 90 days
+of employment and have manager approval. Warehouse and operations roles
+may not be eligible based on operational requirements. Employees on the
+9/80 schedule who take a holiday that falls on their off Friday do not
+receive an additional day off. The 9/80 schedule may be revoked if
+performance or attendance issues arise.
+
+3.5 REMOTE WORK POLICY
+-----------------------
+The Cary Company supports a hybrid work model for eligible roles. Employees
+in office-based roles may work remotely up to 2 days per week after
+completing their 90-day probationary period with manager approval.
+
+Fully remote work arrangements are available for certain roles and require
+VP-level approval. Remote employees are expected to maintain core working
+hours of 9am — 3pm in their local time zone and must be reachable via
+Microsoft Teams during those hours.
+
+Warehouse, operations, and customer-facing roles are not eligible for
+remote work due to the nature of the work. Remote work privileges may be
+revoked for performance or attendance issues. Employees working remotely
+are responsible for maintaining a secure and productive work environment.
+The Cary Company provides a one-time home office stipend of $500 for
+fully remote employees.
+
+3.6 HOLIDAYS
+-------------
+The Cary Company observes the following paid holidays:
+
+  New Year's Day                January 1
+  Martin Luther King Jr. Day    Third Monday in January
+  Memorial Day                  Last Monday in May
+  Juneteenth                    June 19
+  Independence Day              July 4
+  Labor Day                     First Monday in September
+  Thanksgiving Day              Fourth Thursday in November
+  Day After Thanksgiving        Fourth Friday in November
+  Christmas Eve                 December 24
+  Christmas Day                 December 25
+
+When a holiday falls on a Saturday, it is observed on the preceding Friday.
+When a holiday falls on a Sunday, it is observed on the following Monday.
+Part-time employees receive pro-rated holiday pay based on their scheduled
+hours.
+
+3.7 BEREAVEMENT LEAVE
+----------------------
+Employees are eligible for paid bereavement leave upon the death of an
+immediate family member. Immediate family is defined as spouse or domestic
+partner, child (biological, adopted, or step), parent, sibling, grandparent,
+or grandchild.
+
+  Immediate family (spouse, child, parent):   5 paid days
+  Extended family (sibling, grandparent):     3 paid days
+  Close friend or colleague:                  1 paid day at manager discretion
+
+Bereavement leave may be extended with PTO or unpaid leave with manager
+approval. Documentation such as an obituary or death certificate may be
+requested.
+
+3.8 JURY DUTY
+--------------
+Employees called for jury duty will receive their full regular pay for up
+to 10 business days of jury service. For jury service extending beyond
+10 days, the employee will receive the difference between their regular pay
+and jury duty pay for up to an additional 20 days. Employees must provide
+documentation of jury summons to HR within 3 business days of receipt.
+
+3.9 PARENTAL LEAVE
+-------------------
+The Cary Company provides paid parental leave for the birth, adoption, or
+foster placement of a child:
+
+  Primary caregiver:    12 weeks paid at 100% of base salary
+  Secondary caregiver:  4 weeks paid at 100% of base salary
+
+Parental leave must be taken within 12 months of the birth or placement
+event. Employees must have completed 12 months of continuous employment
+to be eligible. Parental leave runs concurrently with FMLA where applicable.
+
+3.10 FMLA
+----------
+The Cary Company complies with the Family and Medical Leave Act (FMLA).
+Eligible employees may take up to 12 weeks of unpaid, job-protected leave
+per year for qualifying reasons including serious health condition of the
+employee or immediate family member, birth or adoption of a child, or
+qualifying military exigency. Employees must have worked for The Cary
+Company for at least 12 months and 1,250 hours in the preceding 12 months
+to be eligible. Contact HR at least 30 days in advance for foreseeable
+leave, or as soon as practicable for unforeseeable leave.
+
+================================================================================
+
+SECTION 4: BENEFITS
+================================================================================
+
+4.1 HEALTH INSURANCE
+---------------------
+The Cary Company offers medical, dental, and vision coverage through its
+group health insurance plan. Benefits are effective on the first day of
+employment. Open enrollment occurs annually in November for coverage
+effective January 1 of the following year. Qualifying life events (marriage,
+birth, divorce, loss of other coverage) allow for mid-year enrollment changes
+within 30 days of the event.
+
+Medical Plans Available:
+  PPO Plan:         Employee premium $180/month, Family $520/month
+  HDHP Plan:        Employee premium $95/month, Family $280/month
+                    Paired with Health Savings Account (HSA)
+  HMO Plan:         Employee premium $140/month, Family $410/month
+                    (Available in Illinois, Indiana, and North Carolina only)
+
+Dental:
+  Employee premium: $18/month
+  Family premium:   $52/month
+  Annual maximum benefit: $2,000 per covered individual
+  Orthodontia lifetime maximum: $1,500
+
+Vision:
+  Employee premium: $8/month
+  Family premium:   $22/month
+  Annual eye exam covered at 100%
+  Frames or contact lens allowance: $200 per year
+
+4.2 HEALTH SAVINGS ACCOUNT (HSA)
+----------------------------------
+Employees enrolled in the High Deductible Health Plan (HDHP) are eligible
+for a Health Savings Account. The Cary Company contributes to employee HSAs:
+
+  Individual coverage:   $500/year company contribution
+  Family coverage:       $1,000/year company contribution
+
+Company HSA contributions are made in January. Employees may contribute
+additional pre-tax dollars up to the IRS annual limit ($4,150 individual,
+$8,300 family for 2026). HSA funds roll over year to year and are owned
+by the employee permanently.
+
+4.3 FLEXIBLE SPENDING ACCOUNT (FSA)
+-------------------------------------
+Employees enrolled in the PPO or HMO plans may contribute to a Healthcare
+Flexible Spending Account. Annual contribution limit is $3,200 (2026 IRS
+limit). FSA funds must be used by March 15 of the following plan year
+(2.5 month grace period). Dependent Care FSA is also available with an
+annual limit of $5,000 per household.
+
+4.4 LIFE INSURANCE
+-------------------
+The Cary Company provides basic life insurance coverage at no cost to the
+employee equal to 2x annual base salary, up to a maximum of $500,000.
+Supplemental life insurance is available for purchase at group rates for
+employee, spouse, and dependent children. Coverage amounts and premiums
+are provided during open enrollment.
+
+4.5 SHORT-TERM AND LONG-TERM DISABILITY
+-----------------------------------------
+Short-Term Disability (STD):
+  Waiting period: 7 calendar days
+  Benefit: 60% of base salary
+  Duration: Up to 12 weeks
+  Funded by The Cary Company at no cost to employee
+
+Long-Term Disability (LTD):
+  Elimination period: 90 days (coordinates with STD)
+  Benefit: 60% of base salary
+  Duration: To age 65 or recovery
+  Funded by The Cary Company at no cost to employee
+
+4.6 EMPLOYEE ASSISTANCE PROGRAM (EAP)
+---------------------------------------
+All employees and their household members have access to the Employee
+Assistance Program at no cost. EAP services include:
+  - Up to 8 free counseling sessions per issue per year
+  - Legal consultation (free 30-minute consultations)
+  - Financial counseling and planning
+  - Work-life balance resources
+  - Crisis intervention hotline available 24/7
+
+EAP is completely confidential. The Cary Company does not receive any
+information about individual employee use of EAP services.
+
+4.7 WELLNESS PROGRAM
+---------------------
+The Cary Company provides a wellness reimbursement of $600 per calendar
+year for eligible wellness expenses including gym memberships, fitness
+equipment, fitness apps, weight loss programs, smoking cessation programs,
+and stress management courses. Reimbursement is processed through HR with
+receipt submission. Wellness reimbursement is considered taxable income.
+
+================================================================================
+
+SECTION 5: RETIREMENT & FINANCIAL BENEFITS
+================================================================================
+
+5.1 401(K) PLAN
+----------------
+The Cary Company offers a 401(k) retirement savings plan administered
+through Fidelity Investments. Employees are eligible to participate
+beginning on the first day of employment.
+
+Employee Contributions:
+  Employees may contribute up to the IRS annual limit ($23,500 for 2026,
+  $31,000 for employees age 50 and over with catch-up contributions).
+  Contributions can be made as traditional pre-tax or Roth after-tax.
+  Contribution percentage can be changed at any time through the Fidelity
+  NetBenefits portal.
+
+Company Match:
+  The Cary Company matches 100% of employee contributions up to 4% of
+  base salary. The match is deposited per pay period concurrent with
+  employee contributions. There is no waiting period for the company match.
+
+  Example: Employee earning $80,000 contributing 4% ($3,200/year) receives
+  a full company match of $3,200/year for total annual contribution of $6,400.
+
+  Employees contributing less than 4% receive a proportional match.
+  Employees contributing more than 4% do not receive additional match above
+  the 4% threshold.
+
+Vesting Schedule for Company Match:
+  The company match is subject to a graded vesting schedule:
+
+  Year 1:   25% vested
+  Year 2:   50% vested
+  Year 3:   75% vested
+  Year 4:   100% vested
+
+  Employee contributions are always 100% vested immediately.
+
+Auto-Enrollment:
+  New employees are automatically enrolled in the 401(k) at a 3%
+  contribution rate starting on their first day of employment. Employees
+  may opt out or change their contribution rate at any time. Auto-escalation
+  increases contributions by 1% annually up to a maximum of 10% unless
+  the employee opts out of auto-escalation.
+
+Investment Options:
+  The plan offers over 25 investment options including target date funds,
+  index funds, and actively managed funds. A managed account option is
+  available through Fidelity for an additional fee.
+
+5.2 PROFIT SHARING
+-------------------
+The Cary Company has offered a discretionary profit sharing contribution
+to employee 401(k) accounts in years where the company meets profitability
+targets. Profit sharing is determined by the Board of Directors and is
+not guaranteed.
+
+Profit sharing eligibility:
+  - Must be employed on December 31 of the plan year
+  - Must have completed 1 year of service
+  - Must have worked at least 1,000 hours during the plan year
+
+Profit sharing contributions are allocated as a percentage of eligible
+compensation. Historical profit sharing contributions have ranged from
+2% to 6% of eligible compensation in years where targets were met.
+Profit sharing contributions follow the same vesting schedule as the
+company match.
+
+5.3 EQUITY / STOCK OPTIONS
+----------------------------
+The Cary Company is a privately held company and does not offer publicly
+traded stock. Phantom equity arrangements are available for Director-level
+and above employees at the discretion of executive leadership. Details
+of phantom equity arrangements are governed by individual agreements.
+
+5.4 TUITION REIMBURSEMENT
+--------------------------
+The Cary Company supports employee professional development through
+tuition reimbursement for job-related education.
+
+Eligibility:
+  - Must have completed 12 months of continuous employment
+  - Degree or coursework must be relevant to current or future role
+  - Must maintain a grade of B or better (Pass for pass/fail courses)
+  - Prior written approval required before enrollment
+
+Reimbursement Limits:
+  Undergraduate coursework:   Up to $5,250 per calendar year (tax-free limit)
+  Graduate coursework:        Up to $5,250 per calendar year (tax-free limit)
+  Professional certifications: Up to $2,000 per calendar year
+
+Reimbursement is processed after course completion with submission of
+grade documentation and receipts. A 24-month clawback provision applies
+if the employee voluntarily resigns after receiving tuition reimbursement.
+
+5.5 PROFESSIONAL DEVELOPMENT BUDGET
+-------------------------------------
+In addition to tuition reimbursement, all employees receive an annual
+professional development budget:
+
+  Level 1 — 2:   $500/year
+  Level 3 — 4:   $1,500/year
+  Level 5:        $3,000/year
+
+Professional development budget covers conferences, workshops, online
+courses, books, and professional association memberships. Budget must
+be used by December 31 and does not carry over. Requires manager approval
+and expense report submission.
+
+================================================================================
+
+SECTION 6: PERFORMANCE & CAREER DEVELOPMENT
+================================================================================
+
+6.1 PERFORMANCE REVIEW CYCLE
+------------------------------
+The Cary Company conducts formal performance reviews on an annual basis.
+The review cycle runs October through December for the preceding year,
+with final ratings and compensation decisions communicated by January 15.
+
+Review components:
+  - Self-assessment completed by employee (due November 1)
+  - Manager assessment completed by direct manager (due November 15)
+  - Peer feedback collected from 3 — 5 colleagues (due November 15)
+  - Calibration session across managers (December)
+  - Final rating communicated to employee (January 15)
+
+Performance ratings:
+  Exceeds Expectations (EE):      Top 15% of performers
+  Meets Expectations (ME):        Core performers, majority of employees
+  Partially Meets (PM):           Below expectations, improvement needed
+  Does Not Meet (DNM):            Significant performance gap
+
+6.2 MERIT INCREASES
+--------------------
+Annual merit increases are tied to performance ratings and are effective
+February 1 following the review cycle:
+
+  Exceeds Expectations:      4% — 7% increase
+  Meets Expectations:        2% — 4% increase
+  Partially Meets:           0% — 1% increase
+  Does Not Meet:             0%, may be placed on PIP
+
+Merit increases are also constrained by position in salary band. Employees
+at the top of their band may receive smaller increases or off-cycle equity
+adjustments instead.
+
+6.3 PERFORMANCE IMPROVEMENT PLAN (PIP)
+----------------------------------------
+Employees receiving a Partially Meets or Does Not Meet rating, or those
+with significant performance concerns identified outside the review cycle,
+may be placed on a Performance Improvement Plan. A PIP outlines specific
+measurable goals, a 60 — 90 day timeline, and regular check-ins with the
+manager. HR must be involved in the creation of any PIP. Successful
+completion of a PIP returns the employee to good standing. Failure to
+meet PIP goals may result in termination.
+
+6.4 PROMOTIONAL PROCESS
+------------------------
+Promotions at The Cary Company follow a structured process:
+
+Step 1 — Eligibility:
+  Employee must have been in current role for minimum 18 months.
+  Most recent performance rating must be Meets Expectations or above.
+  No active disciplinary actions or PIP.
+
+Step 2 — Manager Nomination:
+  Direct manager submits a promotion nomination form to HR and their
+  department VP. Nomination must include a business case, evidence of
+  performance at the next level, and compensation recommendation.
+
+Step 3 — Calibration:
+  Promotions are reviewed in a cross-functional calibration session
+  with department VPs and HR quarterly (March, June, September, December).
+
+Step 4 — Approval:
+  VP approval required for Level 1 → 2 and Level 2 → 3 promotions.
+  VP and SVP approval required for Level 3 → 4 promotions.
+  CEO approval required for Level 4 → 5 promotions.
+
+Step 5 — Communication:
+  Approved promotions are communicated to the employee by the manager
+  with an updated offer letter reflecting new title and compensation.
+  Promotional salary increases are typically 10% — 20% above current salary.
+
+6.5 INTERNAL TRANSFER POLICY
+------------------------------
+Employees who wish to transfer to a different department or location may
+apply for internal postings after completing 12 months in their current role.
+Employees must notify their current manager before applying. The current
+manager may not block a transfer but has the right to request a reasonable
+transition period of up to 8 weeks.
+
+================================================================================
+
+SECTION 7: WORKPLACE POLICIES
+================================================================================
+
+7.1 CODE OF CONDUCT
+--------------------
+All Cary Company employees are expected to conduct themselves with
+integrity, respect, and professionalism. This includes honest communication,
+respect for colleagues and customers, protection of company confidential
+information, compliance with all applicable laws and regulations, and
+avoidance of conflicts of interest.
+
+7.2 ANTI-HARASSMENT AND DISCRIMINATION
+----------------------------------------
+The Cary Company is committed to a workplace free of harassment and
+discrimination. The company prohibits discrimination or harassment based
+on race, color, religion, sex, national origin, age, disability, genetic
+information, sexual orientation, gender identity, marital status, or
+any other characteristic protected by law.
+
+Employees who experience or witness harassment or discrimination should
+report it to their manager, HR, or through the anonymous ethics hotline.
+All reports are investigated promptly and confidentially. Retaliation
+against employees who report in good faith is strictly prohibited.
+
+7.3 DRUG AND ALCOHOL POLICY
+-----------------------------
+The Cary Company maintains a drug-free workplace. Use, possession,
+distribution, or being under the influence of alcohol or illegal drugs
+during work hours, on company property, or in company vehicles is
+prohibited and grounds for immediate termination. Pre-employment drug
+testing is required for all positions. Random drug testing may be
+conducted for safety-sensitive roles.
+
+7.4 EXPENSE REIMBURSEMENT
+--------------------------
+Employees who incur business expenses must submit expense reports within
+30 days of the expense. Expenses submitted more than 90 days after
+incurrence may not be reimbursed.
+
+Approval thresholds:
+  Up to $500:       Manager approval
+  $500 — $2,500:    Manager + Director approval
+  $2,500 — $5,000:  Manager + VP approval
+  Above $5,000:     Manager + VP + CFO approval
+
+Travel expenses:
+  Airfare must be economy class for domestic flights under 4 hours.
+  Business class permitted for international flights or domestic flights
+  over 6 hours with VP approval.
+  Hotel expenses reimbursed up to $200/night domestic, $300/night
+  international without prior VP approval.
+  Meals: $75/day domestic, $100/day international (alcohol not reimbursable).
+  Mileage reimbursement at the current IRS rate ($0.67/mile for 2026).
+
+Expense reports are processed within 10 business days of approval.
+Reimbursements are included in the next regular payroll cycle after processing.
+
+7.5 TRAVEL POLICY
+------------------
+All business travel must be booked through the company's designated
+travel management platform (Concur). Travel must be approved by the
+manager in advance. International travel requires VP approval and must
+be booked at least 21 days in advance where possible.
+
+7.6 CONFIDENTIALITY AND NDA
+-----------------------------
+All employees are required to sign a Non-Disclosure Agreement (NDA) as
+a condition of employment. Confidential information includes but is not
+limited to customer lists, pricing strategies, proprietary processes,
+financial information, product development plans, and personnel matters.
+Obligations under the NDA survive termination of employment.
+
+7.7 INTELLECTUAL PROPERTY
+--------------------------
+All work product created by employees within the scope of their employment
+is the property of The Cary Company. This includes inventions, software,
+designs, processes, and written works. Employees must promptly disclose
+and assign any relevant intellectual property to the company.
+
+7.8 SOCIAL MEDIA POLICY
+------------------------
+Employees may use social media in a personal capacity but must not disclose
+confidential company information, make statements that could be construed
+as official company positions, or engage in conduct that violates the
+code of conduct or anti-harassment policies. Employees should identify
+their views as personal and not representative of The Cary Company.
+
+================================================================================
+
+SECTION 8: IT & EQUIPMENT POLICIES
+================================================================================
+
+8.1 EQUIPMENT POLICY
+---------------------
+The Cary Company provides employees with the technology required to perform
+their job functions. Standard equipment includes a laptop computer (Mac or
+PC based on role requirements), monitor, keyboard, mouse, and headset for
+remote workers.
+
+Equipment must be returned in good working condition upon termination.
+Damage beyond normal wear and tear may result in deductions from final
+paycheck as permitted by law. Personal use of company equipment for legal
+personal activities is permitted within reasonable limits. Installation
+of unauthorized software is prohibited.
+
+8.2 ACCEPTABLE USE POLICY
+--------------------------
+Company technology systems including computers, email, internet, and
+communication tools are provided for business purposes. Limited personal
+use is permitted. Prohibited uses include accessing illegal content,
+gambling, excessive personal streaming, or any activity that violates
+the code of conduct. Company systems are subject to monitoring.
+Employees should have no expectation of privacy on company systems.
+
+8.3 DATA SECURITY
+-----------------
+Employees are responsible for protecting company data. Requirements include:
+  - Use of strong passwords (minimum 12 characters, complexity required)
+  - Multi-factor authentication on all company systems
+  - No storage of company data on personal devices or unauthorized cloud services
+  - Immediate reporting of lost or stolen equipment to IT
+  - No sharing of login credentials
+
+8.4 AI TOOLS POLICY
+--------------------
+The use of AI tools including large language models (ChatGPT, Claude,
+Copilot, etc.) for work tasks is permitted with the following restrictions:
+  - Confidential company data, customer data, or proprietary information
+    must not be entered into public AI tools
+  - AI-generated work product must be reviewed and verified by the employee
+    before submission or distribution
+  - Use of company-approved AI tools (Microsoft Copilot integrated with
+    Microsoft 365) is encouraged for productivity
+  - Questions about approved AI tool usage should be directed to IT or
+    the AI Integration team
+
+================================================================================
+
+SECTION 9: SEPARATION & OFFBOARDING
+================================================================================
+
+9.1 VOLUNTARY RESIGNATION
+--------------------------
+Employees who voluntarily resign are requested to provide notice in
+accordance with their role level:
+
+  Individual contributors (Level 1 — 2):   2 weeks notice
+  Senior and Lead (Level 3):               3 weeks notice
+  Manager and above (Level 4 — 5):         4 weeks notice
+
+Notice should be submitted in writing to the direct manager and HR.
+The Cary Company reserves the right to accept resignation immediately
+and provide pay in lieu of notice.
+
+9.2 INVOLUNTARY TERMINATION
+-----------------------------
+Termination for cause may occur immediately without notice for violations
+including theft, fraud, workplace violence, harassment, drug or alcohol
+violations, or gross misconduct. Termination without cause includes a
+severance package based on tenure:
+
+  Less than 1 year:    1 week severance
+  1 — 3 years:         2 weeks severance per year of service
+  3 — 5 years:         3 weeks severance per year of service
+  5+ years:            4 weeks severance per year of service, capped at 26 weeks
+
+Severance is contingent upon signing a separation agreement and general
+release of claims.
+
+9.3 FINAL PAYCHECK
+-------------------
+Final paychecks including all accrued, unused PTO are issued on the next
+regular pay date following the last day of work, or sooner as required
+by state law. Illinois law requires final pay by the next regular payday.
+
+9.4 COBRA CONTINUATION COVERAGE
+---------------------------------
+Upon separation, employees and covered dependents are eligible for COBRA
+continuation of health, dental, and vision coverage for up to 18 months
+(36 months for certain qualifying events). COBRA election notice will be
+mailed within 14 days of separation. COBRA premiums are paid entirely by
+the former employee at the group rate plus a 2% administrative fee.
+
+9.5 REFERENCE POLICY
+---------------------
+The Cary Company provides employment verification only — confirming dates
+of employment, job title, and eligibility for rehire. HR will not provide
+performance references. Manager references are at the individual manager's
+discretion and must be disclosed as personal rather than official company
+references.
+
+================================================================================
+
+SECTION 10: MULTI-LOCATION POLICIES
+================================================================================
+
+10.1 WAREHOUSE LOCATIONS
+-------------------------
+The Cary Company operates nine locations across the United States:
+
+  Addison, IL (HQ):      1195 W Fullerton Ave, Addison, IL 60101
+  Glendale Heights, IL:  1640 Fullerton Ct, Glendale Heights, IL 60139
+  Pittsburgh, PA:        20 39th Street, Pittsburgh, PA 15201
+  Brownsburg, IN:        4334 N County Road 1000 E, Brownsburg, IN 46112
+  Charlotte, NC:         12810 Virkler Drive, Charlotte, NC 28273
+  Grand Prairie, TX:     949 West Oakdale, Grand Prairie, TX 75050
+  Salt Lake City, UT:    5231 Harold Gatty Dr, Salt Lake City, UT 84116
+  Jurupa Valley, CA:     10220 San Sevaine Way, Jurupa Valley, CA 91752
+  Livermore, CA:         6150 Las Positas Rd, Livermore, CA 94551
+
+Headquarters functions including HR, Finance, IT, and Executive Leadership
+are based in Addison, IL. Each location has a Warehouse Manager and an
+Operations Lead who serve as the local points of contact for HR matters.
+
+10.2 STATE-SPECIFIC POLICIES
+------------------------------
+The Cary Company complies with all applicable state and local employment
+laws. Employees in California are subject to California-specific provisions
+including additional meal and rest break requirements, California CFRA
+leave, and California-specific final pay requirements. Employees in
+Illinois are covered by the Illinois Human Rights Act and Chicago-specific
+ordinances where applicable. Employees should contact HR for questions
+about state-specific policies that may differ from the general policies
+in this manual.
+
+10.3 TRANSFER BETWEEN LOCATIONS
+---------------------------------
+Employees wishing to transfer between Cary Company locations follow the
+internal transfer process outlined in Section 6.5. Location transfers
+may include a cost-of-living adjustment to compensation at HR's discretion.
+Relocation assistance may be available for company-initiated transfers.
+
+================================================================================
+
+SECTION 11: CONTACT INFORMATION
+================================================================================
+
+Human Resources Department
+The Cary Company
+1195 W Fullerton Ave
+Addison, IL 60101
+
+HR Hotline:         630-629-6600 ext. 2200
+HR Email:           hr@carycompany.com
+HR Portal:          SharePoint → HR → Employee Resources
+Benefits Questions: benefits@carycompany.com
+Payroll Questions:  payroll@carycompany.com
+Ethics Hotline:     1-800-XXX-XXXX (anonymous, 24/7)
+
+HR Business Hours:  Monday — Friday, 8:00 AM — 5:00 PM CT
+
+For urgent matters outside business hours, contact your local Warehouse
+Manager or Operations Lead who have access to on-call HR support.
+
+================================================================================
+END OF DOCUMENT
+The Cary Company HR Policy Manual v3.2
+Last Updated: January 1, 2026
+Next Scheduled Review: January 1, 2027
+================================================================================

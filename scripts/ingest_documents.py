@@ -56,3 +56,4 @@ def ingest(file_path: str, department: str = "HR"):
 
 if __name__ == "__main__":
     ingest("docs/Nicoles_hr_policy_samples.txt", "HR")
+    ingest("docs/detailed_hr.txt", "HR")

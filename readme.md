@@ -4,6 +4,9 @@ Draft Example of Enterprise AI infrastructure for The Cary Company.
 Production-ready RAG system enabling department-specific
 knowledge retrieval across organization.
 
+Uses loaded data from: https://github.com/dylanhans/cary_test_aiplatform/blob/main/docs/detailed_hr.txt
+Can load pdf, txt files for demo. Production would use real company infrastructure for retrieval.
+
 ## Architecture
 
 - **API Layer:** FastAPI with structured logging
@@ -13,7 +16,7 @@ knowledge retrieval across organization.
 - **Audit Trail:** Full conversation logging (across departments, roles, responses)
 - **Deployment:** Docker + Docker Compose
 
-## Quick Start
+## Clone Start (Repository)
 
 1. `cp .env.example .env` — configure API keys
 2. `docker-compose up -d` — start services
@@ -56,6 +59,91 @@ Neon (managed PostgreSQL with pgvector)
 Frontend: Vanilla JS + HTML5
 Railway
 
+Next Steps:
+
 - **Backend**: Azure App Service
 - **Auth**: Azure Active Directory SSO (replacing simulated auth)
 - **Document sync**: SharePoint webhook to ingest pipeline
+
+ARCHITECTURE:
+
+Current,
+
+┌─────────────────────────────────────────────────────────────┐
+│ USER BROWSER │
+│ Vercel (Static Frontend) │
+│ login.html → dashboard.html │
+└─────────────────────────┬───────────────────────────────────┘
+│ HTTPS REST
+▼
+┌─────────────────────────────────────────────────────────────┐
+│ RAILWAY (FastAPI Backend) │
+│ │
+│ POST /api/v1/auth/login POST /api/v1/query │
+│ GET /health GET /api/v1/departments │
+│ │
+│ ┌─────────────────┐ ┌──────────────────────────────┐ │
+│ │ auth.py │ │ retrieval.py │ │
+│ │ JWT tokens │ │ embed → search → generate │ │
+│ └─────────────────┘ └──────────────┬───────────────┘ │
+└────────────────────────────────────────┼────────────────────┘
+│
+┌──────────────────────────┼──────────────────┐
+│ │ │
+▼ ▼ │
+┌─────────────────────┐ ┌─────────────────────────┐ │
+│ NEON (PostgreSQL) │ │ OPENAI API │ │
+│ │ │ │ │
+│ documents table │ │ text-embedding-3-small │ │
+│ vector(1536) │ │ gpt-4o-mini │ │
+│ pgvector search │ │ │ │
+│ │ └─────────────────────────┘ │
+│ conversations │ │
+│ table (audit log) │ │
+└─────────────────────┘ │
+
+Production,
+
+─────────────────────────────────────────────────────────────────┐
+│ CARY EMPLOYEES │
+│ Microsoft 365 / Azure AD SSO │
+└──────────────────────────┬──────────────────────────────────────┘
+│ SSO Login
+▼
+┌─────────────────────────────────────────────────────────────────┐
+│ FRONTEND (React + TypeScript) │
+│ Hosted on Azure Web Applications │
+│ │
+│ HR Agent │ Sales Agent │ Ops Agent │ Finance Agent │ CS Agent │
+└──────────────────────────┬──────────────────────────────────────┘
+│ HTTPS + Bearer Token
+▼
+┌─────────────────────────────────────────────────────────────────┐
+│ API LAYER (FastAPI on Azure App Service) │
+│ │
+│ ┌────────────┐ ┌────────────┐ ┌────────────┐ │
+│ │ Auth Router│ │Query Router│ │Upload Router│ │
+│ │ Azure AD │ │ RAG Pipeline│ │ Ingestion │ │
+│ └────────────┘ └────────────┘ └────────────┘ │
+└──────┬─────────────────┬──────────────────┬─────────────────────┘
+│ │ │
+▼ ▼ ▼
+┌────────────┐ ┌─────────────────┐ ┌──────────────────────┐
+│ AZURE AD │ │ AZURE POSTGRESQL│ │ AZURE OPENAI │
+│ │ │ + pgvector │ │ │
+│ User roles │ │ │ │ gpt-4o (deployment) │
+│ Dept scope │ │ documents │ │ text-embedding-3- │
+│ SSO tokens │ │ conversations │ │ small (deployment) │
+└────────────┘ │ users │ └──────────────────────┘
+└─────────────────┘
+▲
+┌──────────────┴───────────────┐
+│ │
+┌────────────────┐ ┌─────────────────────┐
+│ SHAREPOINT │ │ NETSUITE ERP │
+│ │ │ │
+│ Document sync │ │ Inventory queries │
+│ Webhook → │ │ Order status │
+│ re-ingestion │ │ Customer records │
+│ pipeline │ │ │
+└────────────────┘ └─────────────────────┘
