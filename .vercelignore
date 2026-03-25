@@ -1,0 +1,13 @@
+app/
+scripts/
+docs/
+venv/
+.env
+.env.local
+.git
+.gitignore
+requirements.txt
+docker-compose.yml
+Dockerfile
+readme.md
+postgres/

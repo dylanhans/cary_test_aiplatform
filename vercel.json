@@ -1,5 +1,7 @@
 {
-  "buildCommand": "echo 'Static build complete'",
+  "buildCommand": "echo 'Static deployment'",
   "outputDirectory": "frontend",
-  "cleanUrls": true
+  "env": {
+    "SKIP_BUILD": "true"
+  }
 }
